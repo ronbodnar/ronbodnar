@@ -19,17 +19,12 @@ A dynamic logic engine and puzzle game built with **Node.js**. This project demo
 
 ---
 
-### 🛠 Tech Stack & Ecosystem
-- **Backend:** Java (Spring Boot, Hibernate, JPA), Node.js, Python
-- **Frontend:** TypeScript, JavaScript, Angular, React, Tailwind CSS, Material UI
-- **Infrastructure:** Nginx, Docker, Linux Home Lab
-
----
-
-### 📊 GitHub Activity
-
-![Ron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronbodnar&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbodnar&layout=compact&theme=radical&hide_border=true)
+### 🛠️ Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white) |
+| **Infrastructure** | ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white) |
 
 ---
 
