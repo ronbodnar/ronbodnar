@@ -1,7 +1,7 @@
 # Hi, I'm Ron 👋
 
 ### Business Efficiency Engineer | Full-Stack Systems Architect
-I build solutions that turn friction into flow. Whether it’s an ERP suite or a logic engine, my focus is the same: taking raw business logic and engineering it into a secured, proxied, and production-ready system.
+I build solutions that turn friction into flow. My focus is on translating complex business requirements into high-integrity systems—engineered to be secure, proxied, and production-ready from day one.
 
 ---
 
@@ -36,4 +36,3 @@ A dynamic logic engine and puzzle game built with **Node.js**. This project demo
 ### 📫 Connect with me
 - **Portfolio:** [ronbodnar.com](https://ronbodnar.com/)
 - **LinkedIn:** [in/ronbodnar](https://linkedin.com/in/ronbodnar)
-- **Identity:** Dedicated to building software that kills manual work and drives efficiency.
