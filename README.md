@@ -1,7 +1,7 @@
 # Hi, I'm Ron 👋
 
 ### Business Efficiency Engineer | Full-Stack Systems Architect
-I build solutions that turn friction into flow. My focus is on translating complex business requirements into high-integrity systems—engineered to be secure, proxied, and production-ready from day one.
+I build solutions that turn friction into flow. My focus is on translating complex business requirements into high-integrity systems that are engineered to be secure, proxied, and production-ready from day one.
 
 ---
 
