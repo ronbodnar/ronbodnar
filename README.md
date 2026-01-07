@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ron 👋
 
-<!--
-**ronbodnar/ronbodnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business Efficiency Engineer | Full-Stack Systems Architect
+I build solutions that turn friction into flow. Whether it’s an ERP suite or a logic engine, my focus is the same: taking raw business logic and engineering it into a secured, proxied, and production-ready system.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Featured Systems
+
+#### [CoreFlow ERP](https://ronbodnar.com/) (Enterprise Suite)
+A robust, multi-tenant Enterprise Resource Planning suite. Built with a modern **Java 21 / Spring Boot 3** architecture to handle complex business workflows, digitize physical asset management, and provide real-time operational insights.  
+*Note: Private repository. Architecture overview and demo available via the CoreFlow ERP [landing page](https://erp.ronbodnar.com).*
+
+#### [Showcase OS](https://github.com/ronbodnar/showcase-os)
+An extensible web-based desktop environment. It serves as a unified system simulation to deploy and demonstrate multiple projects as first-class, system-level applications using **TypeScript**.
+
+#### [Grid of Words](https://github.com/ronbodnar/grid-of-words)
+A dynamic logic engine and puzzle game built with **Node.js**. This project demonstrates complex state management and real-time DOM manipulation to create a seamless, interactive user experience.
+
+---
+
+### 🛠 Tech Stack & Ecosystem
+- **Backend:** Java (Spring Boot, Hibernate, JPA), Node.js, Python
+- **Frontend:** TypeScript, JavaScript, Angular, React, Tailwind CSS, Material UI
+- **Infrastructure:** Nginx, Docker, Linux Home Lab
+
+---
+
+### 📊 GitHub Activity
+
+![Ron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronbodnar&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbodnar&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 📫 Connect with me
+- **Portfolio:** [ronbodnar.com](https://ronbodnar.com/)
+- **LinkedIn:** [in/ronbodnar](https://linkedin.com/in/ronbodnar)
+- **Identity:** Dedicated to building software that kills manual work and drives efficiency.
