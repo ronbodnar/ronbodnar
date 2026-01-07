@@ -3,7 +3,7 @@
 ### Business Efficiency Engineer | Full-Stack Systems Architect
 I build solutions that turn friction into flow. My focus is on translating complex business requirements into high-integrity systems that are engineered to be secure, proxied, and production-ready from day one.
 
----
+<br />
 
 ### 🏗️ Featured Systems
 
@@ -17,7 +17,7 @@ An extensible web-based desktop environment. It serves as a unified system simul
 #### [Grid of Words](https://github.com/ronbodnar/grid-of-words)
 A dynamic logic engine and puzzle game built with **Node.js**. This project demonstrates complex state management and real-time DOM manipulation to create a seamless, interactive user experience.
 
----
+<br />
 
 ### 🛠️ Tech Stack
 | Category | Tools & Technologies |
@@ -26,7 +26,7 @@ A dynamic logic engine and puzzle game built with **Node.js**. This project demo
 | **Frontend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white) |
 | **Infrastructure** | ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white) |
 
----
+<br />
 
 ### 📫 Connect with me
 - **Portfolio:** [ronbodnar.com](https://ronbodnar.com/)
